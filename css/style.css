@@ -88,6 +88,7 @@ body{
     align-items:center;
 
     padding:0 8%;
+    padding-top:100px;
 }
 
 .hero-content{
@@ -101,7 +102,7 @@ body{
 
 .hero-content h1{
     font-weight: 700;
-    font-size:90px;
+    font-size: 48px;
     line-height:1;
     margin:10px 0;
 }
@@ -389,14 +390,15 @@ footer h3{
     .hero{
         text-align:center;
         justify-content:center;
+        padding-top:90px;
     }
 
     .hero-content h1{
-        font-size:55px;
+        font-size:48px;
     }
 
     .hero-content h2{
-        font-size:28px;
+        font-size:24px;
     }
 
     .hero-content p{
